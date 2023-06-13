@@ -1,7 +1,7 @@
 # AdaptiveFEM
 
 To run the program:
-1. run the entry_point.py file (it will import main).
+1. Run the entry_point.py file (it will import main).
 2. Change input variables to change output:
 
 ax = 2,
